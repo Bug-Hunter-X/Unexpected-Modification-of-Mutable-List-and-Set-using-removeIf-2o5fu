@@ -1,0 +1,1 @@
+This example demonstrates an uncommon Kotlin code error involving the unexpected modification of a mutable list or set using the `removeIf` function.  The `removeIf` function directly modifies the list or set, rather than creating a new one. This can lead to unexpected behavior if you're not aware of this characteristic.
